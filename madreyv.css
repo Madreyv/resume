@@ -1,0 +1,52 @@
+body {
+	font-family: 'Roboto';
+	font-size: 14px;
+	padding: 2em;
+	padding-bottom: 0;
+}
+
+
+p{
+	width: 100%;
+    margin-bottom: 0;
+}
+a:link, a:visited {
+	color: #337ab7;
+	text-decoration: none;
+}
+
+header{
+	position: relative;
+    left: 10%;
+}
+.row{
+	margin-bottom: 10px;
+}
+
+.main{
+	margin-top: 20px;
+}
+
+.title{
+	width: 15%;
+	text-align: center;
+    text-transform: uppercase;
+    font-size: 14px;
+}
+
+.content{
+	margin-left: 15px;
+}
+
+.content-block{
+	width: 100%;
+}
+
+.featured {
+   	 font-weight: bold;
+}
+
+.time {
+	font-style: italic;
+}
+
